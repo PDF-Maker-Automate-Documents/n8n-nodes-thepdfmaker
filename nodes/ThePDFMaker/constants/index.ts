@@ -1,5 +1,5 @@
-// const ENV = 'PROD'; // "DEV" or "PROD"
-const ENV = 'DEV';
+const ENV = 'PROD'; // "DEV" or "PROD"
+// const ENV = 'DEV';
 
 const CONSTANTS = {
 	PROD: {
