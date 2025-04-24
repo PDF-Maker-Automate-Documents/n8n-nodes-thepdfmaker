@@ -3,7 +3,7 @@ const ENV = 'PROD'; // "DEV" or "PROD"
 
 const CONSTANTS = {
 	PROD: {
-		BASE_URL: 'https://api.thepdfmaker.com/',
+		BASE_URL: 'https://backend.thepdfmaker.com/',
 		DASHBOARD_URL: 'https://app.thepdfmaker.com/',
 	},
 	DEV: {
