@@ -1,0 +1,20 @@
+{
+	"node": "n8n-nodes-base.ThePDFMaker",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"pdf"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": ""
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": ""
+			}
+		]
+	}
+}
